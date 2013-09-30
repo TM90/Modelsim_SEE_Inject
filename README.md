@@ -5,7 +5,7 @@ Modelsim_SEE_Inject
 
 _Figure 1: GUI SEE Inject Tool_
 
-A tcl extension (GUI shown in figure 1)to simulate Single Event Effects (SEEs) in Modelsim
+A tcl extension (GUI shown in figure 1) to simulate Single Event Effects (SEEs) in Modelsim
 
 The tcl tool can be started when testbench and VHDL files are compiled in Modelsim.
 The simulation can be set up over a Tk GUI and then upsets and transients can be simulated.
